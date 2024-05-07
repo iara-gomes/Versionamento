@@ -5,3 +5,31 @@ remote: Counting objects: 100% (3/3), done.
 remote: Compressing objects: 100% (3/3), done.
 remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0
 Receiving objects: 100% (3/3), 88.71 KiB | 29.57 MiB/s, done.
+
+
+novo:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   comando-da-tarde.txt
+
+novo 2:
+C:\Users\24153689\Documents\aula 2\Versionamento>git commit -m "Arquivo do comando da tarde txt"
+[main 489d12b] Arquivo do comando da tarde txt
+ Committer: IARA GOMES VILALVA <24153689@edu119.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+)
+ create mode 100644 comando-da-tarde.txt
